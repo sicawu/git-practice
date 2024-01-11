@@ -1,0 +1,3 @@
+Name: Simona
+Age: 30
+Favorite Color: Orange
